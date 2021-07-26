@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import Header from './componants/Header'
-import Home from './componants/Home' 
-import FavDegmond from './componants/FavDegmond'
+import Header from './Header'
+import Home from './Home' 
+import FavDegmond from './FavDegmond'
 import {
   BrowserRouter as Router,
   Switch,
