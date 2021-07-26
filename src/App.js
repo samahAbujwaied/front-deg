@@ -19,7 +19,7 @@ export class App extends Component {
           <Route exact path="/">
             <Home />
           </Route>
-          <Route exact path="/fav">
+          <Route  path="/fav">
             <FavDegmond/>
           </Route>
         </Switch>    
